@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-28T20:26:48 IST" name="Default suite" finished-at="2024-05-28T20:26:57 IST" duration-ms="9192">
+    <groups>
+    </groups>
+    <test started-at="2024-05-28T20:26:48 IST" name="Default test" finished-at="2024-05-28T20:26:57 IST" duration-ms="9192">
+      <class name="org.ict.testcases.AdminLoginTC">
+        <test-method is-config="true" signature="loadprop()[pri:0, instance:org.ict.testcases.AdminLoginTC@71809907]" started-at="2024-05-28T20:26:48 IST" name="loadprop" finished-at="2024-05-28T20:26:48 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadprop -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:org.ict.testcases.AdminLoginTC@71809907]" started-at="2024-05-28T20:26:48 IST" name="launch" finished-at="2024-05-28T20:26:57 IST" duration-ms="8765" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="login()[pri:1, instance:org.ict.testcases.AdminLoginTC@71809907]" started-at="2024-05-28T20:26:57 IST" name="login" finished-at="2024-05-28T20:26:57 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="new_setup()[pri:0, instance:org.ict.testcases.AdminLoginTC@71809907]" started-at="2024-05-28T20:26:57 IST" name="new_setup" finished-at="2024-05-28T20:26:57 IST" duration-ms="374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- new_setup -->
+      </class> <!-- org.ict.testcases.AdminLoginTC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
